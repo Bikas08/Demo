@@ -11,4 +11,5 @@ import org.testng.annotations.Listeners;
   monochrome = true
 )
 public class RunCucumberTest extends AbstractTestNGCucumberTests {
+	
 }
